@@ -1,0 +1,157 @@
+{
+    "type": "java",
+    "name": "Exécuter ConnexionMySQL",
+    "request": "launch",
+    "mainClass": "connexiondatabase",
+    "projectName": "tonProjet",
+    "vmArgs": "-cp lib/mysql-connector-j-9.3.0.jar",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "src.main",
+            "projectName": "FabiAndMaxProject_d7b9e53a"
+        },
+        {
+            "type": "java",
+            "name": "FichePedagogiqueFrame",
+            "request": "launch",
+            "mainClass": "FichePedagogiqueFrame",
+            "projectName": "FabiAndMaxProject_d7b9e53a"
+        },
+        {
+            "type": "java",
+            "name": "TestRequetesSQL",
+            "request": "launch",
+            "mainClass": "TestRequetesSQL",
+            "projectName": "FabiAndMaxProject_d7b9e53a"
+        },
+        {
+            "type": "java",
+            "name": "VoirMesCoursFrame",
+            "request": "launch",
+            "mainClass": "VoirMesCoursFrame",
+            "projectName": "FabiAndMaxProject_d7b9e53a"
+        },
+        {
+            "type": "java",
+            "name": "VoirSeancesFrame",
+            "request": "launch",
+            "mainClass": "VoirSeancesFrame",
+            "projectName": "FabiAndMaxProject_d7b9e53a"
+        },
+        {
+            "type": "java",
+            "name": "EnseignantFrame",
+            "request": "launch",
+            "mainClass": "EnseignantFrame",
+            "projectName": "FabiAndMaxProject_d7b9e53a"
+        },
+        {
+            "type": "java",
+            "name": "ChefDepartementFrame",
+            "request": "launch",
+            "mainClass": "ChefDepartementFrame",
+            "projectName": "FabiAndMaxProject_d7b9e53a"
+        },
+        {
+            "type": "java",
+            "name": "AjouterEnseignantFrame",
+            "request": "launch",
+            "mainClass": "AjouterEnseignantFrame",
+            "projectName": "FabiAndMaxProject_d7b9e53a"
+        },
+        {
+            "type": "java",
+            "name": "LoginFrame",
+            "request": "launch",
+            "mainClass": "LoginFrame",
+            "projectName": "FabiAndMaxProject_d7b9e53a"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "FabiAndMaxProject_d7b9e53a"
+        },
+        {
+            "type": "java",
+            "name": "AjouterCoursFrame",
+            "request": "launch",
+            "mainClass": "AjouterCoursFrame",
+            "projectName": "projet avec BDD_20593566"
+        },
+        {
+            "type": "java",
+            "name": "AjouterSeanceFrame",
+            "request": "launch",
+            "mainClass": "AjouterSeanceFrame",
+            "projectName": "projet avec BDD_20593566"
+        },
+        {
+            "type": "java",
+            "name": "VoirSeancesFrame",
+            "request": "launch",
+            "mainClass": "VoirSeancesFrame",
+            "projectName": "projet avec BDD_20593566"
+        },
+        {
+            "type": "java",
+            "name": "ValiderSeanceFrame",
+            "request": "launch",
+            "mainClass": "ValiderSeanceFrame",
+            "projectName": "projet avec BDD_20593566"
+        },
+        {
+            "type": "java",
+            "name": "VoirMesCoursFrame",
+            "request": "launch",
+            "mainClass": "VoirMesCoursFrame",
+            "projectName": "projet avec BDD_20593566"
+        },
+        {
+            "type": "java",
+            "name": "AssignerCoursFrame",
+            "request": "launch",
+            "mainClass": "AssignerCoursFrame",
+            "projectName": "projet avec BDD_20593566"
+        },
+        {
+            "type": "java",
+            "name": "AjouterResponsableFrame",
+            "request": "launch",
+            "mainClass": "AjouterResponsableFrame",
+            "projectName": "projet avec BDD_20593566"
+        },
+        {
+            "type": "java",
+            "name": "LoginFrame",
+            "request": "launch",
+            "mainClass": "LoginFrame",
+            "projectName": "projet avec BDD_20593566"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "projet avec BDD_20593566"
+        },
+        {
+            "type": "java",
+            "name": "Donnees",
+            "request": "launch",
+            "mainClass": "Donnees",
+            "projectName": "projet avec BDD_20593566"
+        },
+        {
+            "type": "java",
+            "name": "connexiondatabaseTest",
+            "request": "launch",
+            "mainClass": "connexiondatabaseTest",
+            "projectName": "projet avec BDD_20593566"
+        }
+    ]
+}
