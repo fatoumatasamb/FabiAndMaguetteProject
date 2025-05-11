@@ -10,7 +10,7 @@ public class Donnees {
     // Paramètres de connexion à la base de données
     private static final String DB_URL = "jdbc:mysql://localhost:3306/CahierTexte";
     private static final String DB_USER = "root";
-    private static final String DB_PASSWORD = "2008";
+    private static final String DB_PASSWORD = "";
 
     /**
      * Établit une connexion à la base de données

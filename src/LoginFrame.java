@@ -25,7 +25,7 @@ public class LoginFrame extends JFrame {
         setSize(450, 500);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
-        setResizable(false);
+        setResizable(true);
         
         // Définir l'icône de l'application si disponible
         // setIconImage(new ImageIcon("path/to/icon.png").getImage());

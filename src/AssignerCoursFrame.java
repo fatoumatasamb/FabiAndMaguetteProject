@@ -42,7 +42,7 @@ public class AssignerCoursFrame extends JFrame {
         
         // Configuration de la fenêtre
         setTitle("Assigner un Cours");
-        setSize(500, 500);
+        setSize(750, 650);
         setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
         setLocationRelativeTo(null);
         setResizable(false);

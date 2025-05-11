@@ -54,7 +54,7 @@ public class FichePedagogiqueFrame extends JFrame {
     public FichePedagogiqueFrame() {
         // Configuration de la fenêtre
         setTitle("Génération de Fiche Pédagogique");
-        setSize(900, 600);
+        setSize(750, 800);
         setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
         setLocationRelativeTo(null);
         

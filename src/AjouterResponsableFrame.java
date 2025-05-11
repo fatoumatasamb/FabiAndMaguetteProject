@@ -39,10 +39,10 @@ public class AjouterResponsableFrame extends JFrame {
     public AjouterResponsableFrame() {
         // Configuration de la fenêtre
         setTitle("Ajouter un Responsable de Classe");
-        setSize(500, 800);
+        setSize(750, 800);
         setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
         setLocationRelativeTo(null);
-        setResizable(true);
+        setResizable(true); 
         
         // Layout principal
         setLayout(new BorderLayout());
@@ -106,12 +106,12 @@ public class AjouterResponsableFrame extends JFrame {
         sectionLabel1.setBorder(new EmptyBorder(0, 0, 10, 0));
         
         // Champ Nom
-        JLabel nomLabel = new JLabel("Nom");
+        JLabel nomLabel = new JLabel("Prénom");
         nomField = new JTextField(20);
         nomField.setPreferredSize(new Dimension(300, 30));
         
         // Champ Prénom
-        JLabel prenomLabel = new JLabel("Prénom");
+        JLabel prenomLabel = new JLabel("Nom");
         prenomField = new JTextField(20);
         prenomField.setPreferredSize(new Dimension(300, 30));
         

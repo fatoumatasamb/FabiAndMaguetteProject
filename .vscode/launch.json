@@ -11,6 +11,104 @@
             "name": "main",
             "request": "launch",
             "mainClass": "src.main",
+            "projectName": "FabiAndMaxProject_48b17a9b"
+        },
+        {
+            "type": "java",
+            "name": "VoirSeancesFrame",
+            "request": "launch",
+            "mainClass": "src.VoirSeancesFrame",
+            "projectName": "FabiAndMaxProject_76d56f0e"
+        },
+        {
+            "type": "java",
+            "name": "ValiderSeanceFrame",
+            "request": "launch",
+            "mainClass": "src.ValiderSeanceFrame",
+            "projectName": "FabiAndMaxProject_76d56f0e"
+        },
+        {
+            "type": "java",
+            "name": "HistoriqueValidationsFrame",
+            "request": "launch",
+            "mainClass": "src.HistoriqueValidationsFrame",
+            "projectName": "FabiAndMaxProject_76d56f0e"
+        },
+        {
+            "type": "java",
+            "name": "AssignerCoursFrame",
+            "request": "launch",
+            "mainClass": "src.AssignerCoursFrame",
+            "projectName": "FabiAndMaxProject_76d56f0e"
+        },
+        {
+            "type": "java",
+            "name": "AjouterSeanceFrame",
+            "request": "launch",
+            "mainClass": "src.AjouterSeanceFrame",
+            "projectName": "FabiAndMaxProject_76d56f0e"
+        },
+        {
+            "type": "java",
+            "name": "VoirSeancesCoursFrame",
+            "request": "launch",
+            "mainClass": "src.VoirSeancesCoursFrame",
+            "projectName": "FabiAndMaxProject_76d56f0e"
+        },
+        {
+            "type": "java",
+            "name": "VoirMesCoursFrame",
+            "request": "launch",
+            "mainClass": "src.VoirMesCoursFrame",
+            "projectName": "FabiAndMaxProject_76d56f0e"
+        },
+        {
+            "type": "java",
+            "name": "AjouterEnseignantFrame",
+            "request": "launch",
+            "mainClass": "src.AjouterEnseignantFrame",
+            "projectName": "FabiAndMaxProject_76d56f0e"
+        },
+        {
+            "type": "java",
+            "name": "ResponsableClasseFrame",
+            "request": "launch",
+            "mainClass": "src.ResponsableClasseFrame",
+            "projectName": "FabiAndMaxProject_76d56f0e"
+        },
+        {
+            "type": "java",
+            "name": "EnseignantFrame",
+            "request": "launch",
+            "mainClass": "src.EnseignantFrame",
+            "projectName": "FabiAndMaxProject_76d56f0e"
+        },
+        {
+            "type": "java",
+            "name": "ChefDepartementFrame",
+            "request": "launch",
+            "mainClass": "src.ChefDepartementFrame",
+            "projectName": "FabiAndMaxProject_76d56f0e"
+        },
+        {
+            "type": "java",
+            "name": "AjouterResponsableFrame",
+            "request": "launch",
+            "mainClass": "src.AjouterResponsableFrame",
+            "projectName": "FabiAndMaxProject_76d56f0e"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "src.main",
+            "projectName": "FabiAndMaxProject_76d56f0e"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "src.main",
             "projectName": "FabiAndMaxProject_d7b9e53a"
         },
         {

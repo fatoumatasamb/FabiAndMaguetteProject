@@ -26,7 +26,7 @@ public class AjouterEnseignantFrame extends JFrame {
     public AjouterEnseignantFrame() {
         // Configuration de la fenêtre
         setTitle("Ajouter un Enseignant");
-        setSize(500, 600);
+        setSize(750, 800);
         setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
         setLocationRelativeTo(null);
         setResizable(true);
@@ -90,12 +90,12 @@ public class AjouterEnseignantFrame extends JFrame {
         sectionLabel1.setBorder(new EmptyBorder(0, 0, 10, 0));
         
         // Champ Nom
-        JLabel nomLabel = new JLabel("Nom");
+        JLabel nomLabel = new JLabel("Prénom");
         nomField = new JTextField(20);
         nomField.setPreferredSize(new Dimension(300, 30));
         
         // Champ Prénom
-        JLabel prenomLabel = new JLabel("Prénom");
+        JLabel prenomLabel = new JLabel("Nom");
         prenomField = new JTextField(20);
         prenomField.setPreferredSize(new Dimension(300, 30));
         
